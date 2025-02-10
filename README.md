@@ -33,7 +33,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,r" />
+    <img src="https://skillicons.dev/icons?i=java,cpp,r,py,django" />
   </a>
 </p>
 
@@ -41,14 +41,16 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=markdown" />
+    <img src="https://skillicons.dev/icons?i=markdown,html,css" />
   </a>
 </p>
 
 
 - Database
 <p align="left">
-    Learning...
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=sqllite,postgre"
+    </a>
 </p>
 
 
