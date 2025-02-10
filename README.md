@@ -49,21 +49,23 @@
 - Database
 <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=SQLite,PostgreSQL-Dark"
+      <img src="https://skillicons.dev/icons?i=sqlite,postgres" />
     </a>
 </p>
 
 
 - Cloud Servers
 <p align="left">
-    Learning...
+   <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=heroku" />
+    </a>
 </p>
 
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,linux,neovim" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,linux,neovim,maven" />
   </a>
 </p>
 
