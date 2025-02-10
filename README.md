@@ -49,7 +49,7 @@
 - Database
 <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=sqllite,postgre"
+      <img src="https://skillicons.dev/icons?i=SQLite,PostgreSQL-Dark"
     </a>
 </p>
 
