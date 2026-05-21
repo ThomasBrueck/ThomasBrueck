@@ -1,54 +1,55 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=700&size=30&duration=4000&pause=500&color=FFFFFF&background=FFFFFF00&center=true&width=1000&lines=Hi%2C+I'm+Thomas+Brueck;Fullstack+developer+and+AI+engineer" alt="Typing SVG" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=500&size=32&duration=3000&pause=300&color=FFFFFF&background=FFFFFF00&center=true&width=1000&height=50&lines=Hi%2C+I'm+Thomas+Brueck;Backend+Engineer;AI+Engineer" alt="Typing SVG" />
   </a>
-</h1>
-<h3 align="center">
-  Software Engineering
-</h3>
-<p align="center">I am fascinated by innovation and continuous progress in IT. I focus on web development and being an AI engineer to scale optimal solutions and offer them for consumption.</p>
+  <br>
+  <b><big>Software Engineer</big></b>
+</p>
 
+<p align="center">
+Backend Software Engineer focused on building scalable web platforms, robust backend architectures, and production-ready AI systems. I combine clean code principles (Clean/Hexagonal Architecture) with intelligent agent workflows to design high-impact applications.
+</p>
+
+---
+
+<h3 align="center">Core Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,py,java" alt="Languages" />
+</p>
 
 <br>
+
+<h3 align="center">Frameworks & Runtimes</h3>
 <p align="center">
-  <img align="center" width="500" src="https://images3.alphacoders.com/720/720669.jpg?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+  <img src="https://skillicons.dev/icons?i=nestjs,nextjs,react,nodejs,express,spring,django,tailwind" alt="Frameworks" />
 </p>
 
-<br><br>
+<br>
 
-<img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0124.gif" height="2" width="100%">
-
-<br/>
-
-<h3 align="center">
-  My Tools
-</h3>
-
-
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=go,ts,java,py" alt="Languages Stack" />
+<h3 align="center">Databases & Storage</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase" alt="Databases" />
 </p>
 
-**Frameworks**
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,spring,django" alt="Frameworks Stack" />
+<br>
+
+<h3 align="center">Infrastructure & CI/CD</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions" alt="Infrastructure" />
 </p>
 
-**Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Infrastructure Stack" />
+<br>
+
+<h3 align="center">Tools & Environment</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,neovim,git,github,bitbucket,postman,maven,gradle" alt="Tools" />
 </p>
 
-**Infraestructure**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions," alt="Infrastructure Stack" />
+---
+
+<p align="center">
+  <img src="game.gif" alt="My GitHub Game" />
 </p>
 
+<br>
 
-
-![My GitHub Game](game.gif)
-
-
-</div>
-
-<br><br>
